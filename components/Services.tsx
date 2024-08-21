@@ -17,7 +17,7 @@ function Services() {
           <h3 className="text-2xl mb-3">Sustainable Cloud Solutions</h3>
           <p>
             Leverage our green cloud services, powered by renewable energy
-            sources, to reduce your company's carbon footprint.
+            sources, to reduce your company&apos;s carbon footprint.
           </p>
         </Card>
         <Card width={35} height={12}>
