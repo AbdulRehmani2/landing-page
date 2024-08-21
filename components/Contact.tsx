@@ -3,7 +3,7 @@ import React from "react";
 
 function Contact() {
   return (
-    <div className="my-24 flex flex-col items-center">
+    <div className="my-24 flex flex-col items-center px-10">
       <h1 className="text-4xl text-center mb-5">Get in Touch</h1>
       <p>
         Ready to make your business more sustainable? Contact us today to learn

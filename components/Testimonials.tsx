@@ -3,7 +3,7 @@ import Card from "./Card";
 
 function Testimonials() {
   return (
-    <div className="my-24 flex flex-col justify-center items-center">
+    <div className="my-24 flex flex-col justify-center items-center px-10">
       <h1 className="text-4xl mb-5 text-center">What Our Clients Say</h1>
       <Card height={11} width={40}>
         <p className="mt-5">
