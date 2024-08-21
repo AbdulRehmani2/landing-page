@@ -4,6 +4,7 @@ import About from "@/components/About";
 import Seperator from "@/components/Seperator";
 import Services from "@/components/Services";
 import Testimonials from "@/components/Testimonials";
+import Contact from "@/components/Contact";
 
 function Home() {
   return (
@@ -15,6 +16,8 @@ function Home() {
       <Services />
       <Seperator />
       <Testimonials />
+      <Seperator />
+      <Contact />
     </div>
   );
 }
