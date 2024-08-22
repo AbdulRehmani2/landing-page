@@ -22,6 +22,7 @@ function Hero() {
         <div>
           <Image
             src={Eco}
+            priority
             alt="Eco-friendly"
             style={{
               width: "30rem",
